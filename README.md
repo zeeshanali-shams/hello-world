@@ -5,7 +5,7 @@
 4. The programme was executed.
 5. Used following terminal commands to push the project to github account.
 6. git init
-7. git remote add origin "https://github.com/zeeshanali009/hello-world.git"
+7. git remote add origin "https://github.com/z************/h****-****d.git"
 8. git pull origin master
 9.  git add src/
 10. git status
